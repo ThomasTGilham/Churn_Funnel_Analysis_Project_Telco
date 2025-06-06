@@ -51,7 +51,7 @@ Constructed a user funnel from signup to active status:
 3. **Uses Streaming Services** – `StreamingTV` or `StreamingMovies = "Yes"`  
 4. **Still Active** – `Churn = No`
 
-📉 **Conversion Rates**:
+**Conversion Rates**:
 - Internet Service: ~78.3%
 - Streaming Use: ~49.7%
 - Still Active: ~73.5%
@@ -108,7 +108,7 @@ Plotted ROC Curve, Precision-Recall Curve, and Confusion Matrix.
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 - Enhance feature engineering (e.g. customer service call counts).
 - Deploy model into a **Streamlit dashboard**.
